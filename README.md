@@ -1,4 +1,4 @@
-# AndroidExercises-heckyeahvince
+# MyAndroidPortfolio-heckyeahvince
 Most links are referenced to heckyeahvince's Repository
 
 # AndroidExercises
@@ -26,11 +26,8 @@ A collection of basic Android exercises
 19. **Screen Slides** (https://github.com/DeLaSalleUniversity-Manila/screenslidesdemo-melvincabatuan)
 20. **ViewPager with Text-to-Speech Demo** (https://github.com/DeLaSalleUniversity-Manila/viewpagerwithtexttospeech-melvincabatuan)
 21. **Play Video** (https://github.com/DeLaSalleUniversity-Manila/playvideo-melvincabatuan)
-22. **SQLiteDatabase** (https://classroom.github.com/assignment-invitations/6325632ed2323494d1b359be5399558f)
-23. **Mini-database with Text file** (https://classroom.github.com/assignment-invitations/6984288563af23b78a4d9f6d35be95d1)
 24. **Settings Activity** (https://github.com/DeLaSalleUniversity-Manila/settingsactivity-melvincabatuan)
 25. **WorkoutFragmentDemo** (https://github.com/DeLaSalleUniversity-Manila/workoutfragmentdemo-melvincabatuan)
-26. **Grocery App** (https://classroom.github.com/assignment-invitations/dd320497ba09faadd245acf6614f03af)
 27. **Breast Cancer Awareness App** (https://classroom.github.com/assignment-invitations/6b5bd9a716af916bf660f5b95318f678)
 28. **OpenCV 3.0 Camera Preview Example** (https://github.com/DeLaSalleUniversity-Manila/opencvcamerapreviewsample-melvincabatuan)
 29. **OpenCV 3.0 15-Tile Camera Puzzle** (https://github.com/DeLaSalleUniversity-Manila/opencvtilepuzzledemo-melvincabatuan)
@@ -86,11 +83,9 @@ A collection of basic Android exercises
 79. **Native Bitmap Access** (https://github.com/DeLaSalleUniversity-Manila/NativeBitmap)
 80. **Image Histogram** (https://github.com/DeLaSalleUniversity-Manila/Histogram)
 81. **Adaptive Thresholding** (https://github.com/DeLaSalleUniversity-Manila/adaptivethreshold-melvincabatuan)
-82. **DISMATH Refresher App** (https://github.com/DeLaSalleUniversity-Manila/Dismathoid2014_old )(https://play.google.com/store/apps/details?id=com.cabatuan.dismathoid2014)
 83. **Full Body Detection** (https://github.com/DeLaSalleUniversity-Manila/FullBodyDetection)
 84. **Histogram of Gradients (HOG) Features** (https://github.com/DeLaSalleUniversity-Manila/HOGFeatures)
 85. **Consensus-based Matching and Tracking in Android (CMT Tracker)** (https://github.com/DeLaSalleUniversity-Manila/consensusbasedmatchingandtracking_cmt_tracker-melvincabatuan)
-86. **Tesseract OCR Demo** (https://classroom.github.com/assignment-invitations/6e84fd61da0753e0a31559f3e943f0b5 )(c/o E. Lu and G. Limqueco)
 87. **CMT Tracker with AKAZE Features** (https://github.com/DeLaSalleUniversity-Manila/cmt-akaze-melvincabatuan)
 88. **CMT Tracker with ORB Features** (https://github.com/DeLaSalleUniversity-Manila/cmt-orb-melvincabatuan)
 89. **San Angeles** (https://github.com/DeLaSalleUniversity-Manila/sanangeles-melvincabatuan)
