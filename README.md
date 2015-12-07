@@ -70,7 +70,7 @@ A collection of basic Android exercises
 65. **ContoursDemo** (https://github.com/heckyeahvince/Contours)
 66. **Circle Detection** (https://github.com/heckyeahvince/DetectCircles)
 67. **Playing with Transparency** (https://github.com/heckyeahvince/PlayingWithTransparency)
-68. **Optical Flow** (https://github.com/DeLaSalleUniversity-Manila/opticalflow-melvincabatuan)
+68. **Optical Flow** (https://github.com/heckyeahvince/OpticalFlow)
 69. **ORB Flow** (https://github.com/heckyeahvince/OpticalFlow)
 70. **FAST Flow** (https://github.com/heckyeahvince/FastFlow)
 71. **AKAZE Flow** (https://github.com/heckyeahvince/AKAZEFlow)
